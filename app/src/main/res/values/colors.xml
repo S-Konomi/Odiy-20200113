@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a9a9a9</color>
+    <color name="colorPrimaryDark">#696969</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="user_location_marker_color">#007AFF</color>
+    <color name="user_location_circle_fill_color">#66007AFF</color>
+    <color name="user_location_circle_stroke_color">#007AFF</color>
+</resources>
